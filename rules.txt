@@ -1,0 +1,53 @@
+Luat choi
+
+1. Gioi thieu ve game caro
+
+	- Game caro la mot trong nhung game pho bien o Viet Nam, con duoc goi la game Tictactoe tren the gioi.
+
+	- Doi voi chuong trinh game nay, chung ta se su dung ban co co kich thuoc 12 x 12, hai quan co "X" va "O".
+
+	- Game co hai che do : choi voi may va choi 2 nguoi.
+	
+2. Ve cach su dung phim de choi co
+
+	- Theo quy uoc, nguoi choi co the su dung cac phim mui ten len, xuong, trai, phai (hoac cac phim W S A D) 
+	tuong ung de di chuyen cac quan co theo chieu len, xuong, trai, phai.
+
+	- Nguoi choi su dung phim space (hoac enter) de danh co.
+
+3. Ve luat choi
+
+	- Theo quy uoc, chung ta su dung hai quan co "X" va "O" de tham gia danh co, trong do nguoi choi quan "X" 
+	se duoc di truoc.
+
+	- Ve dieu kien chien thang, nguoi choi nao dat duoc 5 quan co giong nhau lien tiep theo hang ngang hoac 
+	hang doc hoac duong cheo trai hoac duong cheo phai truoc thi gianh chien thang (chung ta se su dung luat 
+	choi caro truyen thong, khong xet den quy tac chan hai dau).
+
+	- Trong truong hop di het ban co, ca hai ben deu chua ai chien thang, thi duoc xem nhu Game Over cho ca 
+	hai ben.
+
+4. Doi voi che do choi voi may
+
+	- Doi voi che do choi voi may, nguoi choi se di quan "X" va may tinh se di quan "O".
+
+	- Nguoi choi se di truoc, may tinh di sau.
+
+5. Doi voi che do choi hai nguoi
+
+	- Doi voi che do choi 2 nguoi, nguoi di truoc se di quan "X" va nguoi di sau se la quan "O".
+
+	- Nguoi choi thu 1 sai cac phim W S A D de di chuyen quan co len, xuong, trai, phai va phim Space 
+	de danh co, su dung quan "X".
+
+	- Nguoi choi thu 2 sai cac phim mui ten len,xuong,trai,phai va phim Enter de danh co, su dung quan "O".
+
+6. Ban quyen
+
+	- Day la mot phan cua assignment mo rong cho mon lap trinh nang cao, HK212 (CO203E) danh cho chuong 
+	trinh KSTN HCMUT. Tac gia chon lam game caro cho assignment nay.
+
+	- Game duoc thiet ke, hien thuc, ban quyen source code thuoc ve tac gia Nguyen Duc An (KSTN K20 KHMT 
+	HCMUT, MSSV: 2010102).
+
+	- Lien he tac gia qua email: an.nguyenduc1406@hcmut.edu.vn.

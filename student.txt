@@ -1,0 +1,8 @@
+Thong tin tac gia
+Ho va ten: Nguyen Duc An
+MSSV: 2010102                                       
+Email: an.nguyenduc1406@hcmut.edu.vn
+School: Bach Khoa University (HCMUT)
+Subject: Lap trinh nang cao (mo rong KSTN - CO203E - HK212)
+Project: Game Caro
+Language: C++

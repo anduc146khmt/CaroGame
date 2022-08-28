@@ -1,6 +1,6 @@
 # Game Caro
 
-Honors Program Project for Advanced Programming
+Honors Program Project for Advanced Programming 212 Semester
 
 Author: anduckhmt146
 

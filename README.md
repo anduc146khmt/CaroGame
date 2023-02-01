@@ -29,3 +29,11 @@ This programs is divided into some modules with OOP architecture. Moreover, I im
 Here is my presentation of this project, you will see in my channel. If you find it interesting, please give me a like for my efforts.
 
 Link youtube: [https://youtu.be/zEB-Qb2CvZc](https://youtu.be/zEB-Qb2CvZc)
+
+# Extended Projects
+
+Maybe I think it a quite difficult for you to play with exe file in the black console, so I built a JavaScript version game and deploy for you to play in the website.
+
+Here is the repo of JavaScript version (ReactJS): https://github.com/anduckhmt146/Tic-tac-toe
+
+This game is also deployed at https://tic-tac-toe-9hsh.onrender.com/

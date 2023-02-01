@@ -8,7 +8,7 @@ This is a popular game in Viet Nam built with OOP C++. This game supports featur
 
 The graphic design and feature of this game is made with the library **Windows.h** of C++.
 
-Moreover, I implement algorithms that allow user to play with computer.
+This programs is divided into some modules with OOP architecture. Moreover, I implement algorithms that allow user to play with computer.
 
 # User Interface
 

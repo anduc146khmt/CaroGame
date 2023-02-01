@@ -1,7 +1,31 @@
 # Game Caro
 
-Honors Program Project for Advanced Programming 212 Semester
+Honors Program Project for Advanced Programming 212 Semester.
 
-Author: anduckhmt146
+This is a popular game in Viet Nam built with OOP C++. This game supports features play with player and play with bot.
 
-Link youtobe: [https://youtu.be/zEB-Qb2CvZc](https://youtu.be/zEB-Qb2CvZc)
+# Tech Stack
+
+The graphic design and feature of this game is made with the library **Windows.h** of C++.
+
+Moreover, I implement algorithms that allow user to play with computer.
+
+# User Interface
+
+## Menu UI
+![image](https://user-images.githubusercontent.com/86992472/216020890-e7cbd3da-7f15-4845-bbbf-0d8ddf743641.png)
+
+## Board UI
+![image](https://user-images.githubusercontent.com/86992472/216021456-c4b8252a-9ea8-49a7-9789-55abfa28d226.png)
+
+## Rules UI
+![image](https://user-images.githubusercontent.com/86992472/216021756-dec565b6-04d8-40ab-9524-946dd88110f2.png)
+
+## Author UI
+![image](https://user-images.githubusercontent.com/86992472/216021959-4eabb023-edcc-4a73-af80-a06a81b3ad73.png)
+
+# Presentation
+
+Here is my presentation of this project, you will see in my channel. If you find it interesting, please give me a like for my efforts.
+
+Link youtube: [https://youtu.be/zEB-Qb2CvZc](https://youtu.be/zEB-Qb2CvZc)

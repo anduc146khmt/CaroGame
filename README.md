@@ -12,6 +12,8 @@ This programs is divided into some modules with OOP architecture. Moreover, I im
 
 # User Interface
 
+Here is some graphic interfaces of this game.
+
 ## Menu UI
 ![image](https://user-images.githubusercontent.com/86992472/216020890-e7cbd3da-7f15-4845-bbbf-0d8ddf743641.png)
 
